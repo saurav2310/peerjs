@@ -55,7 +55,7 @@
 	},
 	"targets": {
 		"binary": {
-			"source": "bin/peerjs.ts"
+			"source": "dist/bin/peerjs.ts"
 		},
 		"main": {},
 		"module": {}
